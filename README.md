@@ -28,3 +28,7 @@ Technologies Used
 🔌 Jumper Wires: Essential for making connections between components on the breadboard.
 💻 Arduino IDE: The integrated development environment where the programming will take place.
 🔋 USB Cable: Used for both programming the Arduino and supplying power to the circuit.
+
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/c28c6884-6dfd-4a61-9336-6013d79d88a1)
